@@ -5,5 +5,5 @@ Statutus do projeto: Em desenvolvimento
 para rodar este projeto na sua máquina
 
 ```
-npm instal react
+node app.js
 ```
